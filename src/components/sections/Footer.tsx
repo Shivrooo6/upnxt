@@ -30,7 +30,7 @@ export const Footer = () => {
               </Button></a>
 
               <a
-                href="" // Replace with your actual link
+                href="https://www.instagram.com/upnxtamarketingagency/" // Replace with your actual link
                 target="_blank"
                 rel="noopener noreferrer"
               >
