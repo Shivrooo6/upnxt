@@ -21,7 +21,7 @@ export const Footer = () => {
               Your growth is our mission.
             </p>
             <div className="flex space-x-3">
-              <a href="https://www.facebook.com/share/16eNnw8AaB/?mibextid=wwXIfr" target="_blank"><Button
+              <a href="" target="_blank"><Button
                 variant="outline"
                 size="icon"
                 className="border-brand-green text-brand-green hover:bg-brand-green text-white"
